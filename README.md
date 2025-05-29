@@ -32,6 +32,6 @@ It allows users to:
 | 💧 Waterfall Plot -> Explains single predictions |
 | 📃 Textual Explanation -> Breaks down feature-wise SHAP values |
 
-📎 **Sample Output (PDF)**: See the `SHAP_WIT_Explainability_Output.pdf` included in this repository.
+📎 **Sample Output (PDF)**: See the `WIT_Output.pdf` included in this repository.
 
 ---
