@@ -12,8 +12,8 @@ It allows users to:
 
 ## 🚀 Features
 
-- ✅ Upload any CSV dataset
-- ✅ Automatic handling of numerical + categorical features
+- ✅ Upload a CSV dataset
+- ✅ Automatic handling of numerical features
 - ✅ Train XGBoost model internally
 - ✅ SHAP plots:
   - Global Feature Importance
