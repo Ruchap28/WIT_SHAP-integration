@@ -1,6 +1,6 @@
 # 🔍 Enhancing the What-If Tool (WIT) with SHAP-Based Explainability
 
-This project integrates **SHAP (SHapley Additive exPlanations)** into the **What-If Tool (WIT)** framework, enabling a more interpretable and transparent understanding of machine learning model predictions — especially for tabular data.
+This project integrates **SHAP (SHapley Additive exPlanations)** into the **What-If Tool (WIT)** framework with firebase authentication enabling a more interpretable and transparent understanding of machine learning model predictions — especially for tabular data.
 
 It allows users to:
 
